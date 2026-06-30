@@ -274,10 +274,3 @@ This system automates identification using AI-powered face recognition, making s
 * Search History
 * Dashboard Analytics
 
----
-
-## 👩‍💻 Author
-
-**Preeti Saini**
-M.Tech Artificial Intelligence
-NIT Jalandhar
